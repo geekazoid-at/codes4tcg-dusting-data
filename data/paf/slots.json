@@ -1,6 +1,6 @@
 {
-  "slotProbabilities": {
-    "1": {
+  "1": {
+    "main": {
       "common": 99.5,
       "doubleRare": 0.11637,
       "shinyRare": 0.01952,
@@ -9,8 +9,10 @@
       "ultraRare": 0.0503,
       "specialIllustrationRare": 0.01577,
       "hyperRare": 0.009
-    },
-    "2": {
+    }
+  },
+  "2": {
+    "main": {
       "common": 79.6,
       "uncommon": 19.9,
       "doubleRare": 0.11637,
@@ -20,8 +22,10 @@
       "ultraRare": 0.0503,
       "specialIllustrationRare": 0.01577,
       "hyperRare": 0.009
-    },
-    "3": {
+    }
+  },
+  "3": {
+    "main": {
       "uncommon": 99.5,
       "doubleRare": 0.11637,
       "shinyRare": 0.01952,
@@ -30,41 +34,32 @@
       "ultraRare": 0.0503,
       "specialIllustrationRare": 0.01577,
       "hyperRare": 0.009
-    },
-    "4": {
+    }
+  },
+  "4": {
+    "main": {
       "parallelFoilCommon": 32.9,
       "parallelFoilUncommon": 20.6,
       "parallelFoilRare": 13.2,
       "shinyRare": 16.65,
       "shinyUltraRare": 16.65
-    },
-    "5": {
+    }
+  },
+  "5": {
+    "main": {
       "parallelFoilCommon": 43.9,
       "parallelFoilUncommon": 27.4,
       "parallelFoilRare": 17.6,
       "illustrationRare": 7.8,
       "specialIllustrationRare": 2.1,
       "hyperRare": 1.2
-    },
-    "6": {
+    }
+  },
+  "6": {
+    "main": {
       "rare": 77.8,
       "doubleRare": 15.5,
       "ultraRare": 6.7
     }
-  },
-  "cardCounts": {
-    "common": 40,
-    "parallelFoilCommon": 40,
-    "doubleRare": 10,
-    "uncommon": 25,
-    "parallelFoilUncommon": 25,
-    "rare": 16,
-    "parallelFoilRare": 16,
-    "shinyRare": 120,
-    "shinyUltraRare": 12,
-    "illustrationRare": 3,
-    "ultraRare": 5,
-    "specialIllustrationRare": 8,
-    "hyperRare": 6
   }
 }

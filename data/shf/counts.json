@@ -1,0 +1,32 @@
+{
+  "main": {
+    "common": 18,
+    "parallelFoilCommon": 18,
+    "rare": 8,
+    "parallelFoilRare": 8,
+    "uncommon": 13,
+    "parallelFoilUncommon": 13,
+    "rareHolo": 7,
+    "parallelFoilRareHolo": 7,
+    "v": 8,
+    "vMax": 6,
+    "amazingRare": 3,
+    "ultraRare": 9,
+    "rainbowRare": 1,
+    "shinyRare": 104,
+    "shinyV": 9,
+    "shinyVMax": 7,
+    "secretRare": 2
+  },
+  "subsets": [
+    {
+      "name": "sv",
+      "counts": {
+        "shinyRare": 104,
+        "v": 9,
+        "vMax": 7,
+        "secretRare": 2
+      }
+    }
+  ]
+}

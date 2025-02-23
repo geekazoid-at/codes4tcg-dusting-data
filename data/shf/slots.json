@@ -1,0 +1,64 @@
+{
+  "1": {
+    "main": {
+      "common": 99.5,
+      "v": 0.25,
+      "vMax": 0.125,
+      "ultraRare": 0.091,
+      "rainbowRare": 0.034
+    }
+  },
+  "2": {
+    "main": {
+      "common": 79.6,
+      "uncommon": 19.9,
+      "v": 0.25,
+      "vMax": 0.125,
+      "ultraRare": 0.091,
+      "rainbowRare": 0.034
+    }
+  },
+  "3": {
+    "main": {
+      "uncommon": 99.5,
+      "v": 0.25,
+      "vMax": 0.125,
+      "ultraRare": 0.091,
+      "rainbowRare": 0.034
+    }
+  },
+  "4": {
+    "main": {
+      "parallelFoilCommon": 24,
+      "parallelFoilUncommon": 18,
+      "parallelFoilRare": 11,
+      "parallelFoilRareHolo": 9,
+      "amazingRare": 5,
+      "v": 0.2,
+      "vMax": 0.2,
+      "ultraRare": 0.2,
+      "rainbowRare": 0.2,
+      "secretRare": 0.2
+    },
+    "subsets": [
+      {
+        "name": "sv",
+        "probabilities": {
+          "shinyRare": 23,
+          "v": 6,
+          "vMax": 3
+        }
+      }
+    ]
+  },
+  "5": {
+    "main": {
+      "rare": 60,
+      "rareHolo": 18,
+      "v": 11,
+      "vMax": 5.5,
+      "ultraRare": 4,
+      "rainbowRare": 1.5
+    }
+  }
+}

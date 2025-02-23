@@ -1,0 +1,16 @@
+{
+  "main": {
+    "common": 88,
+    "uncommon": 61,
+    "rare": 16,
+    "doubleRare": 18,
+    "illustrationRare": 26,
+    "ultraRare": 18,
+    "specialIllustrationRare": 11,
+    "hyperRare": 6,
+    "parallelFoilCommon": 88,
+    "parallelFoilUncommon": 61,
+    "parallelFoilRare": 16,
+    "aceSpec": 8
+  }
+}

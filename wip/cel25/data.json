@@ -1,0 +1,21 @@
+{
+  "slotProbabilities": {
+    "1": {
+      "rare": 100
+    },
+    "2": {
+      "rare": 100
+    },
+    "3": {
+      "rare": 100
+    }
+  },
+  "cardCounts": {
+    "rare": 12,
+    "rareHolo": 6,
+    "v": 4,
+    "vMax": 2,
+    "ultraRare": 1,
+    "secretRare": 25
+  }
+}
