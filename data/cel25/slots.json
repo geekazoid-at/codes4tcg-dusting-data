@@ -1,0 +1,28 @@
+{
+  "1": {
+    "main": {
+      "rare": 100
+    }
+  },
+  "2": {
+    "main": { "rare": 100 }
+  },
+  "3": {
+    "main": { "rare": 60 },
+    "subsets": [
+      {
+        "name": "c",
+        "rates": { "ultraRare": 26.4, "secretRare": 13.6 }
+      }
+    ]
+  },
+  "4": {
+    "main": {
+      "rareHolo": 62.1,
+      "v": 25,
+      "vMax": 8.3,
+      "ultraRare": 3.8,
+      "secretRare": 0.8
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "main": {
+    "rare": 12,
+    "rareHolo": 5,
+    "v": 4,
+    "vMax": 2,
+    "ultraRare": 1,
+    "secretRare": 1
+  },
+  "subsets": [
+    {
+      "name": "c",
+      "counts": {
+        "ultraRare": 11,
+        "secretRare": 14
+      }
+    }
+  ]
+}

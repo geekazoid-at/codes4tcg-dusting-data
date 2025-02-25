@@ -43,7 +43,7 @@
     "subsets": [
       {
         "name": "sv",
-        "probabilities": {
+        "rates": {
           "shinyRare": 23,
           "v": 6,
           "vMax": 3
