@@ -1,0 +1,16 @@
+{
+  "main": {
+    "parallelFoilBasicEnergy": 8,
+    "common": 66,
+    "parallelFoilCommon": 66,
+    "uncommon": 62,
+    "parallelFoilUncommon": 62,
+    "doubleRare": 12,
+    "rare": 25,
+    "parallelFoilRare": 25,
+    "illustrationRare": 16,
+    "ultraRare": 16,
+    "specialIllustrationRare": 7,
+    "hyperRare": 3
+  }
+}

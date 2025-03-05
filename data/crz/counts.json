@@ -1,0 +1,31 @@
+{
+  "main": {
+    "common": 42,
+    "parallelFoilCommon": 42,
+    "uncommon": 29,
+    "parallelFoilUncommon": 29,
+    "rare": 22,
+    "parallelFoilRare": 22,
+    "v": 17,
+    "vStar": 8,
+    "rareHolo": 20,
+    "parallelFoilRareHolo": 22,
+    "radiantRare": 3,
+    "vMax": 5,
+    "ultraRare": 13,
+    "secretRare": 1
+  },
+  "subsets": [
+    {
+      "name": "gg",
+      "counts": {
+        "trainerGalleryRare": 34,
+        "vStar": 10,
+        "v": 9,
+        "vMax": 3,
+        "ultraRare": 10,
+        "secretRare": 4
+      }
+    }
+  ]
+}

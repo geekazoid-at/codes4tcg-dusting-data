@@ -1,0 +1,58 @@
+{
+  "1": {
+    "main": {
+      "common": 87.25,
+      "parallelFoilBasicEnergy": 12.25,
+      "doubleRare": 0.2051,
+      "illustrationRare": 0.11675,
+      "ultraRare": 0.1003,
+      "specialIllustrationRare": 0.0494,
+      "hyperRare": 0.02845
+    }
+  },
+  "2": {
+    "main": {
+      "common": 79.6,
+      "uncommon": 19.9,
+      "doubleRare": 0.2051,
+      "illustrationRare": 0.11675,
+      "ultraRare": 0.1003,
+      "specialIllustrationRare": 0.0494,
+      "hyperRare": 0.02845
+    }
+  },
+  "3": {
+    "main": {
+      "uncommon": 99.5,
+      "doubleRare": 0.2051,
+      "illustrationRare": 0.11675,
+      "ultraRare": 0.1003,
+      "specialIllustrationRare": 0.0494,
+      "hyperRare": 0.02845
+    }
+  },
+  "4": {
+    "main": {
+      "parallelFoilCommon": 43.2,
+      "parallelFoilUncommon": 40.5,
+      "parallelFoilRare": 16.3
+    }
+  },
+  "5": {
+    "main": {
+      "parallelFoilCommon": 37.5,
+      "parallelFoilUncommon": 35.3,
+      "parallelFoilRare": 14.2,
+      "illustrationRare": 7.8,
+      "specialIllustrationRare": 3.3,
+      "hyperRare": 1.9
+    }
+  },
+  "6": {
+    "main": {
+      "rare": 79.6,
+      "doubleRare": 13.7,
+      "ultraRare": 6.7
+    }
+  }
+}

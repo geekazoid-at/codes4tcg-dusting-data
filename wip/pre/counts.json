@@ -1,0 +1,12 @@
+{
+  "main": {
+    "common": 46,
+    "uncommon": 33,
+    "rare": 21,
+    "doubleRare": 25,
+    "aceSpec": 6,
+    "ultraRare": 12,
+    "specialIllustrationRare": 32,
+    "hyperRare": 5
+  }
+}
