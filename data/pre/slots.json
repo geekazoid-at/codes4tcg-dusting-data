@@ -2,8 +2,7 @@
   "1": {
     "main": {
       "common": 99.5,
-      "doubleRare": 0.2545,
-      "illustrationRare": 0.11675,
+      "doubleRare": 0.37125,
       "ultraRare": 0.1003,
       "specialIllustrationRare": 0.01795,
       "hyperRare": 0.0105
@@ -13,8 +12,7 @@
     "main": {
       "common": 79.6,
       "uncommon": 19.9,
-      "doubleRare": 0.2545,
-      "illustrationRare": 0.11675,
+      "doubleRare": 0.488,
       "ultraRare": 0.1003,
       "specialIllustrationRare": 0.01795,
       "hyperRare": 0.0105
@@ -23,8 +21,7 @@
   "3": {
     "main": {
       "uncommon": 99.5,
-      "doubleRare": 0.2545,
-      "illustrationRare": 0.11675,
+      "doubleRare": 0.37125,
       "ultraRare": 0.1003,
       "specialIllustrationRare": 0.01795,
       "hyperRare": 0.0105
@@ -40,10 +37,9 @@
   },
   "5": {
     "main": {
-      "parallelFoilCommon": 45.8,
-      "parallelFoilUncommon": 35.5,
+      "parallelFoilCommon": 49.8,
+      "parallelFoilUncommon": 39.3,
       "parallelFoilRare": 9.0,
-      "illustrationRare": 7.8,
       "specialIllustrationRare": 1.2,
       "hyperRare": 0.7
     }
