@@ -1,0 +1,61 @@
+{
+  "1": {
+    "main": {
+      "common": 99.5,
+      "v": 0.261,
+      "vMax": 0.029,
+      "vStar": 0.058,
+      "ultraRare": 0.0975,
+      "rainbowRare": 0.034,
+      "secretRare": 0.0205
+    }
+  },
+  "2": {
+    "main": {
+      "common": 79.6,
+      "uncommon": 19.9,
+      "v": 0.261,
+      "vMax": 0.029,
+      "vStar": 0.058,
+      "ultraRare": 0.0975,
+      "rainbowRare": 0.034,
+      "secretRare": 0.0205
+    }
+  },
+  "3": {
+    "main": {
+      "uncommon": 99.5,
+      "v": 0.261,
+      "vMax": 0.029,
+      "vStar": 0.058,
+      "ultraRare": 0.0975,
+      "rainbowRare": 0.034,
+      "secretRare": 0.0205
+    }
+  },
+  "4": {
+    "main": {
+      "parallelFoilCommon": 36.7,
+      "parallelFoilUncommon": 33.3,
+      "parallelFoilRare": 24.5,
+      "radiantRare": 5,
+      "v": 0.2945,
+      "vMax": 0.0295,
+      "vStar": 0.0385,
+      "ultraRare": 0.0855,
+      "rainbowRare": 0.034,
+      "secretRare": 0.018
+    }
+  },
+  "5": {
+    "main": {
+      "rareHolo": 70.7,
+      "v": 15.3,
+      "vMax": 1.7,
+      "vStar": 3.4,
+      "ultraRare": 5.7,
+      "rainbowRare": 2,
+      "secretRare": 1.2
+    }
+  }
+}

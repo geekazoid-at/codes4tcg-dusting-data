@@ -1,0 +1,31 @@
+{
+  "main": {
+    "common": 49,
+    "parallelFoilCommon": 49,
+    "uncommon": 50,
+    "parallelFoilUncommon": 50,
+    "rareHolo": 22,
+    "parallelFoilRareHolo": 22,
+    "rare": 28,
+    "parallelFoilRare": 28,
+    "v": 12,
+    "vMax": 1,
+    "vStar": 6,
+    "radiantRare": 3,
+    "ultraRare": 25,
+    "rainbowRare": 15,
+    "secretRare": 6
+  },
+  "subsets": [
+    {
+      "name": "tg",
+      "counts": {
+        "trainerGalleryRare": 11,
+        "v": 7,
+        "vMax": 4,
+        "ultraRare": 6,
+        "secretRare": 2
+      }
+    }
+  ]
+}

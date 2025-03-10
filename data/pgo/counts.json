@@ -1,0 +1,18 @@
+{
+  "main": {
+    "common": 22,
+    "parallelFoilCommon": 22,
+    "uncommon": 20,
+    "parallelFoilUncommon": 20,
+    "rareHolo": 16,
+    "parallelFoilRare": 16,
+    "radiantRare": 3,
+    "parallelFoilRareHolo": 3,
+    "v": 6,
+    "vStar": 2,
+    "vMax": 1,
+    "ultraRare": 8,
+    "rainbowRare": 7,
+    "secretRare": 3
+  }
+}
