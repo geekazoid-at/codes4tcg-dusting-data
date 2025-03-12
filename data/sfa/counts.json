@@ -1,17 +1,18 @@
 {
   "main": {
     "parallelFoilBasicEnergy": 8,
-    "common": 76,
-    "parallelFoilCommon": 76,
-    "uncommon": 55,
-    "parallelFoilUncommon": 55,
-    "rare": 16,
-    "parallelFoilRare": 16,
-    "doubleRare": 14,
-    "aceSpec": 6,
-    "illustrationRare": 21,
-    "ultraRare": 21,
-    "specialIllustrationRare": 11,
-    "hyperRare": 6
+
+    "common": 28,
+    "parallelFoilCommon": 28,
+    "uncommon": 20,
+    "parallelFoilUncommon": 20,
+    "rare": 7,
+    "parallelFoilRare": 7,
+    "doubleRare": 6,
+    "aceSpec": 3,
+    "illustrationRare": 15,
+    "ultraRare": 10,
+    "specialIllustrationRare": 5,
+    "hyperRare": 5
   }
 }
